@@ -1,6 +1,7 @@
 # Project Tic-Tac-Toe
 
 The famouse Tic Tac Toe game made with HTML, Grid and Flexbox! Live version of the project is __[here](https://cigmaian.github.io/Tic-Tac-Toe/)__.
+
 I used this project to practice simple algorithms and using event listeners.
 
 ## Features
